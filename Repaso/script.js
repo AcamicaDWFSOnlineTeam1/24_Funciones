@@ -153,6 +153,7 @@ console.table(myCar);
 myCar.privateProperty = 1;
 myCar.setOtherPrivateProperty(2);
 console.table(myCar);
+//console.log(myCar.#defprivateProperty);
 
 // Uso de getters
 console.log("PrivateProperty: ", myCar.privateProperty);

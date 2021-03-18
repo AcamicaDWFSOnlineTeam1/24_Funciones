@@ -24,6 +24,7 @@ Si existe, solicita todos los datos a través del prompt y reemplaza el objeto c
 
 ## 4.- Diagrama javascript
 ![imagen](https://user-images.githubusercontent.com/16826246/111583526-359e5800-8782-11eb-94f9-a9d08415bdcf.png)
+
 Utiliza una sola variable
 
 ## 5.- Diámetro del círculo
